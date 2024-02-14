@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salim</h1>
 <h3 align="center">A passionate IT engineer student from Tunis</h3>
 
-(img align="right" alt="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif")
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salimbelkhir" alt="salimbelkhir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
