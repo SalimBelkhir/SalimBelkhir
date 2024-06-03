@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [book market](https://github.com/SalimBelkhir/django)
 
-- 🌱 I’m currently learning **Reverse Engineering**
+- 🌱 I’m currently learning **Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalimBelkhir](https://github.com/SalimBelkhir)
 
